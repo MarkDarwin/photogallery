@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer 2020 on Marks Photos</title>
+    <link>http://example.org/summer2020/</link>
+    <description>Recent content in Summer 2020 on Marks Photos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>example@example.org (Mark Darwin)</managingEditor>
+    <webMaster>example@example.org (Mark Darwin)</webMaster>
+    <lastBuildDate>Thu, 03 Sep 2020 23:36:04 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/summer2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
